@@ -1,4 +1,4 @@
-Here is example of how to work with GraphQL and NodeJS. As data store we use MySQL.  
+Here is example of how to work with GraphQL and NodeJS. As data store we use MySQL. For frontend we use simple mini vue app for create tasks list. Index file placed inside ./public folder and of course it calling index.html.   
 For work with MySQL we use Sequelize package. So here you can find also examples how to make requests with sequelize.   
 For first please provide correct database connect information inside file ./utils/database.js  
 Two files you need for work with GraphQL placed inside ./graphql.   
